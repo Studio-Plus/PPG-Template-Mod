@@ -1,3 +1,3 @@
-People Playground Mod Template © 2022 by Dawid23 Gamer/Studio Plus is licensed under CC BY-SA 4.0
+[People Playground Mod Template](https://github.com/Studio-Plus/PPG-Template-Mod) © 2022 by [Dawid23 Gamer](https://github.com/Dawid23-Gamer)/[Studio Plus](https://github.com/Studio-Plus/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 CC BY-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
