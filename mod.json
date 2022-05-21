@@ -1,0 +1,19 @@
+{
+  "Name": "Template Mod",
+  "Author": "Studio Plus",
+  "Description": "This is a template.",
+  "ModVersion": "v1.0.0",
+  "GameVersion": "1.23.7+",
+  "ThumbnailPath": "Textures/Mod/Thumbnail.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    ""
+  ],
+  "Scripts": [
+    "Code/Main.cs",
+    "Code/API.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
