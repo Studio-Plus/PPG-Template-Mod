@@ -1,19 +1,19 @@
 {
-  "Name": "Template Mod",
-  "Author": "Studio Plus",
-  "Description": "This is a template.",
-  "ModVersion": "v1.0.0",
-  "GameVersion": "1.23.7+",
-  "ThumbnailPath": "Textures/Mod/Thumbnail.png",
-  "EntryPoint": "Mod.Mod",
-  "Tags": [
+  "Name": "Template Mod", //The name of your mod
+  "Author": "Studio Plus", //Your username (Preferably steam username)
+  "Description": "This is a template.", //A short description of your mod
+  "ModVersion": "v1.0.0", //This isn't really important, it's mostly for you and to keep track of updates, or if you archive every version that works too.
+  "GameVersion": "1.23.7+", //This is useful for beta and previous version users.
+  "ThumbnailPath": "Textures/Mod/Thumbnail.png", //If your file (in this case texture file) is in the main directory (folder) you type in its name directly. If it's in folder abc and then in xyz, you type in "abc/xyz/example.png"
+  "EntryPoint": "Mod.Mod", //Do not touch, this does not need to be!
+  "Tags": [ //Not exactly important but useful for people who look for specific things
     ""
   ],
-  "Scripts": [
+  "Scripts": [ //If you plan on adding files, be sure to add them in here so the game knows to use them!
     "Code/Main.cs",
     "Code/API.cs"
   ],
-  "Active": true,
-  "UGCIdentity": null,
-  "CreatorUGCIdentity": null
+  "Active": true, //do not touch!
+  "UGCIdentity": null, //do not touch!
+  "CreatorUGCIdentity": null //do not touch!
 }
