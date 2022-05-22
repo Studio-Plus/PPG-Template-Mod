@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using System.Linq;
 
-
+//these are all the APIs (simplifications for complex code) that studio plus mods can use. It will make life easier, trust me.
 
 namespace Mod
 {
@@ -68,7 +68,8 @@ namespace Mod
                 NewCategories[NewCategories.Length - 1] = category;
                 manager.Catalog.Categories = NewCategories;
             }
-        }   
+        }
+        //CategoryBuilder.Create("Category Name", "This is my category", ModAPI.LoadSprite("Textures/Mod/Category Icon.png"));   
     }
 }
 
